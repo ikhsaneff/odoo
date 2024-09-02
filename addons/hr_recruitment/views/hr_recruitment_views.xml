@@ -180,6 +180,9 @@
                     <page string="Application Summary">
                         <field name="description" placeholder="Motivations..."/>
                     </page>
+
+			    	<page string="Interview 1"></page>
+					<page string="Interview 2"></page>
                 </notebook>
             </sheet>
             <div class="o_attachment_preview" groups="hr_recruitment.group_applicant_cv_display"/>
